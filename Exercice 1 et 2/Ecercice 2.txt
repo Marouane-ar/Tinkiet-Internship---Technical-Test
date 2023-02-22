@@ -1,0 +1,4 @@
+ la meilleure façon pour moi de retrouver la voiture de mon ami est
+ de conduire dans une direction pendant une certaine période de temps, 
+ puis faire demi-tour et conduire le même temps dans la direction opposée. je répéte le processus
+ en réduisant continuellement la zone de recherche jusqu'à ce que je retrouve la voiture de mon ami.
